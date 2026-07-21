@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0081/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 人天眼目序豫遊方時所至盡誠咨扣尊宿五宗綱要其間件目往往亦有所未知者因慨念既據師位而綱宗語句尚不知其名況旨訣乎將何以啓迪後昆剔抉疑膜邪於是有意於綱要幾二十年矣或見於遺編或得於斷碣或聞尊宿稱提或獲老衲垂頌凡是五宗綱要者即筆而藏諸雖成巨軸第未暇詳定晚抵天台萬年山寺始償其志編次類列分為五宗名之曰人天眼目其辭皆一依前輩所作弗敢增損然是集也乃從上諸大老利物施為既非豫胸臆之論俾行於世有何誚焉若其執拂柄據師位者外是則無以辨驗邪正也有識博聞者必垂印可宋淳熙戊申季冬越山晦巖智昭序
   hash: sha256:281e38b37f1100ff854867d1aa90830fd434332b25c995022c2b80401319f94f
   markers:
   - {type: 序, offset: 0, content: 人天眼目序, id: KR6q0081_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 人天眼目
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T48/T48n2006.xml
     old_id: T48n2006
-hash: sha256:906961387a80adb5a1f4ceeeb821b732f3a0f468ffa3f0884ae7942c4a8b3096
+hash: sha256:e955feb2c0327aaf671d044d75d23184cfe6d82f3ca5a20b6598610395d95410
